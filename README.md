@@ -1,1 +1,2 @@
 # understandinggit
+git is awesome
